@@ -11,6 +11,10 @@ Example:
     python3 simulator.py 15 0.04 0
     python3 simulator.py 15 0.04 1
 
+Optional:
+    python3 simulator.py 15 0.04 --seed 42
+    python3 simulator.py 15 0.04 --max-completions 10000
+
 Outputs:
     -average turnaround time
     -throughput
