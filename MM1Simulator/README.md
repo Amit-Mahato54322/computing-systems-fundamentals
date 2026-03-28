@@ -176,6 +176,7 @@ python3 make_plots.py
 <h2>Author</h2>
 
 <p>
-CS3360 Student<br>
+Amit Mahato<br>
 Computer Science – Texas State University
+NetId: pgc53
 </p>
